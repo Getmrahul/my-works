@@ -18,7 +18,8 @@
 ## 👉 **Flask + GraphQL Demo using Graphene (Stack: Flask, GraphQL)**
   - **What?** It’s an example project for using GraphQL with Flask using Graphene-SQLAlchemy.
   - **Code?** https://github.com/Getmrahul/Flask-Graphene-SQLAlchemy
-[](https://github.com/Getmrahul/Flask-Graphene-SQLAlchemy)# **Other Projects 🤓**
+[](https://github.com/Getmrahul/Flask-Graphene-SQLAlchemy)
+# **Other Projects 🤓**
 ## 👉 **Tagsdock -** iOS hashtag keyboard - https://tagsdock.com/
 ## 👉 **Snapview -** Make Videos look like Spectacles Video - https://www.producthunt.com/posts/snapview
 ## 🤷‍♂️ **Boring && Resume =>** https://goo.gl/8d8TDM
