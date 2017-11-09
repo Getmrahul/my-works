@@ -20,6 +20,6 @@
   - **Code?** https://github.com/Getmrahul/Flask-Graphene-SQLAlchemy
 [](https://github.com/Getmrahul/Flask-Graphene-SQLAlchemy)# **Other Projects 🤓**
 ## 👉 **Tagsdock -** iOS hashtag keyboard - https://tagsdock.com/
-## 👉 **Snapview -** Make Videos look like Spectacles Video - https://www.producthunt.com/posts/snapview
+## 👉 **Snapview -** <small>Make Videos look like Spectacles Video</small> - https://www.producthunt.com/posts/snapview
 ## 🤷‍♂️ **Boring && Resume =>** https://goo.gl/8d8TDM
 
